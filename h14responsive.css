@@ -1,0 +1,48 @@
+/* Untuk  Tablet/iPad */
+@media all and (max-width: 1000px) {
+
+/* Bagian Judul */
+
+
+/* Bagian Header */
+
+
+/* Bagian Isi Pertama */
+
+
+/* Bagian Isi Kedua */
+
+
+
+/* Bagian Footer */
+
+
+
+
+}
+
+/* Untuk Smartphone/Android */
+@media all and (max-width: 670px) {
+
+    /* Bagian Judul */
+
+
+/* Bagian Header */
+
+
+/* Bagian Isi Pertama */
+
+
+/* Bagian Isi Kedua */
+
+
+
+/* Bagian Footer */
+
+
+
+
+}
+
+
+/* Untuk Handphone iOs */
