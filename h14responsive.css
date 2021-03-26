@@ -5,7 +5,18 @@
 
 
 /* Bagian Header */
+.kotak { 
+	margin:10px auto;
+	width: 100%;
+	height: 100%; 
+}
 
+.kotak-img img { 
+	width: 100%;
+	height: 100%; 
+	float: left;
+	border-radius: 8px;
+}
 
 /* Bagian Isi Pertama */
 
@@ -24,7 +35,7 @@
 /* Untuk Smartphone/Android */
 @media all and (max-width: 670px) {
 
-    /* Bagian Judul */
+/* Bagian Judul */
 
 
 /* Bagian Header */
@@ -50,6 +61,10 @@
 .bagian-atas p{
  font-size:10px; 
 }
+
+.menu-icon{
+    display:block;
+  }
 
 /* Bagian Isi Pertama */
 
