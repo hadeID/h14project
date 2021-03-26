@@ -32,6 +32,10 @@ body {
   float: left;
 }
 
+.fa {
+  margin-right: 5px;
+}
+
 .judul-kanan ul {
 	list-style-type: none;
 	margin: 0;
